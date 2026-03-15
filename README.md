@@ -23,11 +23,5 @@ Este repositório apresenta uma vitrine de e-commerce dinâmica, desenvolvida pa
     * Código modular e de fácil manutenção.
 * **Design Responsivo:** Interface totalmente adaptável, com ajustes específicos para dispositivos móveis (telas abaixo de 400px).
 
-## 🎨 Como visualizar
-
-1.  Clone o repositório.
-2.  Abra o arquivo `index.html` em seu navegador.
-3.  Explore a interatividade de cada card de forma independente.
-
 ---
 Desenvolvido por **Yasmin Souza** como parte de um portfólio focado em desenvolvimento Front-End profissional.
